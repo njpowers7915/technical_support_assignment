@@ -13,13 +13,13 @@
 
 4. Clone this repo by running the following command in your Command Line Shell:
 
-git clone https://github.com/njpowers7915/technical_support_engineer_assignment
+```git clone https://github.com/njpowers7915/technical_support_engineer_assignment```
 
 5. Navigate into the repo, open the file assignment.php in a text editor, and enter your servername, MySQL username, MYSQL password, and database name in the corresponding quotation marks on lines 3 through 6.
 
 6. After saving this information, run the following command to see the results of the below queries:
 
-php assignment.php
+```php assignment.php```
 
 ## Queries
 
